@@ -1,0 +1,1 @@
+#hero .brand-icon{display:block;position:relative;flex:none;width:48px;height:56px}#hero .brand-icon img{position:absolute;top:0;left:calc(50% - 27.78125px);width:56px;height:56px;max-width:none}@media(max-width:899px){#hero .brand-icon{width:40px;height:46px}#hero .brand-icon img{width:46px;height:46px;left:calc(50% - 22.8203125px)}}

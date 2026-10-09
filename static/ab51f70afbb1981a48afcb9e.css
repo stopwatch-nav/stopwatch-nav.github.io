@@ -1,0 +1,1 @@
+#hero .resource-buttons .button:is([data-platform="arxiv"],[data-platform="github"]){color:var(--platform-fill)}#hero .authors a{color:inherit;text-decoration:none}#hero .authors a:hover{text-decoration:underline}

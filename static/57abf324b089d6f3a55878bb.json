@@ -1,0 +1,18 @@
+{
+  "source_sha256": "4008db9f60931174cde00cf7f8bc13b36f2dd374a2c7f9ccead4f8ae53194b48",
+  "settings": [
+    "-vf",
+    "scale=640:480:flags=lanczos",
+    "-c:v",
+    "libx264",
+    "-crf",
+    "31.5",
+    "-preset",
+    "slow",
+    "-pix_fmt",
+    "yuv420p",
+    "-an",
+    "-movflags",
+    "+faststart"
+  ]
+}
